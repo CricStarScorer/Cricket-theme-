@@ -1,5 +1,3 @@
-# Cricket-theme-
-Cricket theme 
 <!DOCTYPE html>
 <html lang="hi">
 <head>
